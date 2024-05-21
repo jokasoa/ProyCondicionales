@@ -15,7 +15,7 @@ int main() {
         count <<"el mayor es: "<<num1;
         count <<endl<<"el menor es: "<<num2;
     }
-    else
+    else //ERROR EN ESTA LINEA
 }
 
     return 0;
