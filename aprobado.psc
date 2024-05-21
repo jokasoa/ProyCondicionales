@@ -9,7 +9,7 @@ Algoritmo aprobado
 	Si Promedio>6 Entonces
 		Escribir "Aprobaste algoritmos con: "Promedio
 	SiNo
-		
+		// ???? que va aquí???
 	FinSi
 	
 FinAlgoritmo
